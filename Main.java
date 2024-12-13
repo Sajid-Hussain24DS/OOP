@@ -191,13 +191,13 @@ class MathWorld {
                 repeat = false;
             }
         }
-          System.out.println("Thank for using our MathWorld: Goodby.");
+          System.out.println("Thank for using our MathWorld Service: Goodby.");
 
             }
         }
         
-  public class Main{
- public static void main(String args[]){
+ public class Main{
+public static void main(String[] args){
      MathWorld mathWorld = new MathWorld();
      mathWorld.run();
  }
